@@ -8,3 +8,4 @@ Additionally, the module board includes 4 Omron branded relays. Relays are used 
 This system supports UART or SPI serial interfaces for effective communication between the microcontroller and the relays, enabling easy monitoring and control of the relay operations.
 
 With these features and components, this system provides an ideal solution for reliable and flexible smart home automation, industrial control, or other automation applications. Powered by the ESP32 C3 microcontroller and Omron relays, this board serves as a high-performance and versatile platform for various electronic projectss.
+![scrren](https://github.com/memetteminarslan/0020_Seven_Segment_Module_05/assets/74721347/a2fa5ba4-2432-45d9-82d1-9a54c38993aa)
