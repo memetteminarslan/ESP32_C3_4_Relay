@@ -1,0 +1,48 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid cb52ac7c-96c4-4f83-ac0f-eb80c46457be)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 125.73 36.83) (size 59.69 40.64) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 47f31bc1-9158-43c8-922c-50ba700dd7cb)
+    (property "Sheetname" "RELAY" (at 125.73 36.1184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "RELAY.kicad_sch" (at 125.73 78.0546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "18_RELAY_EC_1015"
+        (path "/cb52ac7c-96c4-4f83-ac0f-eb80c46457be" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 34.29 38.1) (size 60.96 38.1) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid c50d3122-73f2-4bc9-807d-97e54db243e6)
+    (property "Sheetname" "POWER" (at 34.29 37.3884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "POWER.kicad_sch" (at 34.29 76.7846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "18_RELAY_EC_1015"
+        (path "/cb52ac7c-96c4-4f83-ac0f-eb80c46457be" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
