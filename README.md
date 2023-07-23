@@ -3,7 +3,7 @@ This system is an ESP32 C3 microcontroller module board designed with an LM2576 
 
 The ESP32 C3 module board is equipped with WiFi and Bluetooth Low Energy (BLE) connectivity, offering low power consumption and advanced wireless capabilities. This enables easy integration into wireless networks and efficient operation in applications requiring low power consumption.
 
-Additionally, the module board includes 4 Omron branded relays. Relays are used to control electrical currents, allowing for the switching or opening and closing of electrical circuits based on specific current levels. Omron's high-quality relays ensure reliable and durable performance.
+Additionally, the module board includes 6 Omron branded relays. Relays are used to control electrical currents, allowing for the switching or opening and closing of electrical circuits based on specific current levels. Omron's high-quality relays ensure reliable and durable performance.
 
 This system supports UART or SPI serial interfaces for effective communication between the microcontroller and the relays, enabling easy monitoring and control of the relay operations.
 
