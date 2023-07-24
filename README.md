@@ -10,3 +10,7 @@ This system supports UART or SPI serial interfaces for effective communication b
 With these features and components, this system provides an ideal solution for reliable and flexible smart home automation, industrial control, or other automation applications. Powered by the ESP32 C3 microcontroller and Omron relays, this board serves as a high-performance and versatile platform for various electronic projectss.
 
 ![SCREA](https://github.com/memetteminarslan/0020_Seven_Segment_Module_05/assets/74721347/a1457be4-774f-412d-918f-38d617454b36)
+
+3D
+
+![SCREE](https://github.com/memetteminarslan/0020_Seven_Segment_Module_05/assets/74721347/ffe6bc49-dc7e-4ee1-97b4-900838af3654)
