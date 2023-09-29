@@ -19,8 +19,3 @@ Bu sistem, mikrodenetleyici ile röleler arasında etkili iletişim için UART v
 
 Bu özellikler ve bileşenlerle bu sistem, güvenilir ve esnek akıllı ev otomasyonu, endüstriyel kontrol veya diğer otomasyon uygulamaları için ideal bir çözüm sunar. ESP32 C3 mikrodenetleyici ve Omron röleleri tarafından desteklenen bu kart, çeşitli elektronik projeler için yüksek performanslı ve çok yönlü bir platform olarak hizmet verir.
 
-![SCREA](https://github.com/memetteminarslan/0020_Seven_Segment_Module_05/assets/74721347/a1457be4-774f-412d-918f-38d617454b36)
-
-3D
-
-![SCREE](https://github.com/memetteminarslan/0020_Seven_Segment_Module_05/assets/74721347/ffe6bc49-dc7e-4ee1-97b4-900838af3654)
