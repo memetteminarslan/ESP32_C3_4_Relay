@@ -1,5 +1,5 @@
 # ESP32_C3_Relay_Box
-This system is an ESP32 C3 microcontroller module board designed with an LM2576 integrated circuit capable of converting input voltages ranging from 12V to 36V to a steady 5V output. The LM2576 serves as a power converter to regulate the high input voltages, allowing the ESP32 C3 microcontroller to function reliably.
+This system is ann ESP32 C3 microcontroller module board designed with an LM2576 integrated circuit capable of converting input voltages ranging from 12V to 36V to a steady 5V output. The LM2576 serves as a power converter to regulate the high input voltages, allowing the ESP32 C3 microcontroller to function reliably.
 
 The ESP32 C3 module board is equipped with WiFi and Bluetooth Low Energy (BLE) connectivity, offering low power consumption and advanced wireless capabilities. This enables easy integration into wireless networks and efficient operation in applications requiring low power consumption.
 
